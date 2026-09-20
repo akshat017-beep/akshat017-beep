@@ -34,36 +34,7 @@
 
 👋 Hi, I'm **Akshat Dobhal** — a Computer Science student passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development. I enjoy turning ideas into practical projects and continuously improving my problem-solving and programming skills.
 
-```python
-class AkshatDobhal:
-    def __init__(self):
-        self.name = "Akshat Dobhal"
-        self.roles = [
-            "🎓 B.Tech CSE (AI & ML) Student",
-            "💻 Developer",
-            "🤖 AI/ML Enthusiast"
-        ]
-
-    def working_on(self):
-        return [
-            "🤖 AI & Machine Learning projects",
-            "🌐 Full-Stack Web Development",
-            "🧠 Data Structures & Algorithms",
-            "💡 Innovative projects & hackathons",
-            "🔍 Exploring new technologies and AI tools"
-        ]
-
-    def tech_stack(self):
-        return {
-            "languages": ["C++", "Python", "JavaScript"],
-            "ai_ml": ["Machine Learning", "Data Analysis", "Computer Vision"],
-            "web": ["HTML", "CSS", "React", "Next.js", "Node.js", "Express"],
-            "database": ["MongoDB"],
-            "tools": ["Git", "GitHub", "Docker"]
-        }
-
-    def currently(self):
-        return "Learning → Building → Experimenting → Improving"
+`
 ```
 
 ---
@@ -71,6 +42,10 @@ class AkshatDobhal:
 ## 🚀 Featured Project
 
 **[RESQ — Emergency Response & Rescue Management System](https://github.com/akshat017-beep?tab=repositories)** — a platform for coordinating emergency response teams, tracking incidents in real time, and managing rescue operations end to end.
+
+**[BloomFlower] (https://github.com/akshat017-beep?tab=repositories)** — a modern and visually engaging flower-themed web project designed to showcase beautiful floral collections through a clean, responsive, and user-friendly interface.
+
+
 
 ---
 
