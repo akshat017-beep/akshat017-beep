@@ -32,46 +32,38 @@
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation"/>
 
+👋 Hi, I'm **Akshat Dobhal** — a Computer Science student passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development. I enjoy turning ideas into practical projects and continuously improving my problem-solving and programming skills.
+
 ```python
-class Developer:
+class AkshatDobhal:
     def __init__(self):
         self.name = "Akshat Dobhal"
         self.roles = [
-            "Full-Stack Architect",
-            "AI Engineer"
+            "🎓 B.Tech CSE (AI & ML) Student",
+            "💻 Developer",
+            "🤖 AI/ML Enthusiast"
         ]
-        self.location = "India 🇮🇳"
-        self.education = "B.Tech Computer Science"
+
+    def working_on(self):
+        return [
+            "🤖 AI & Machine Learning projects",
+            "🌐 Full-Stack Web Development",
+            "🧠 Data Structures & Algorithms",
+            "💡 Innovative projects & hackathons",
+            "🔍 Exploring new technologies and AI tools"
+        ]
 
     def tech_stack(self):
         return {
-            "frontend": [
-                "React",
-                "Next.js",
-                "JavaScript",
-                "HTML/CSS"
-            ],
-            "backend": [
-                "Python",
-                "FastAPI",
-                "PostgreSQL",
-                "Supabase"
-            ],
-            "cloud_ai": [
-                "Docker",
-                "Git",
-                "Gemini API",
-                "Linux"
-            ]
+            "languages": ["C++", "Python", "JavaScript"],
+            "ai_ml": ["Machine Learning", "Data Analysis", "Computer Vision"],
+            "web": ["HTML", "CSS", "React", "Next.js", "Node.js", "Express"],
+            "database": ["MongoDB"],
+            "tools": ["Git", "GitHub", "Docker"]
         }
 
-    def current_focus(self):
-        return [
-            "🚀 RESQ — Emergency Response & Rescue Management System",
-            "🌱 Expanding distributed systems knowledge",
-            "👯 Open source collaborations & hackathons",
-            "⚡ Debugging with coffee ☕"
-        ]
+    def currently(self):
+        return "Learning → Building → Experimenting → Improving"
 ```
 
 ---
