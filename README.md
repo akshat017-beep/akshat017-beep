@@ -1,12 +1,12 @@
 <!-- HEADER WAVE -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d4f8c,100:00d4ff&height=220&section=header&text=Akshat%20Dobhal&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=Full-Stack%20Architect%20%7C%20AI%20Engineer%20%7C%20Explorer&descAlignY=55&descSize=18&animation=twinkling" alt="Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:0d4f8c,100:00d4ff&height=220&section=header&text=Akshat%20Dobhal&fontSize=65&fontColor=ffffff&fontAlignY=35&desc=B.Tech%20CSE%20(AI%20%26%20ML)%20%7C%20Developer%20%7C%20AI%2FML%20Enthusiast&descAlignY=55&descSize=18&animation=twinkling" alt="Header"/>
 
 <!-- ANIMATED TYPING -->
 
 <p align="center">
   <a href="https://github.com/akshat017-beep">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%F0%9F%9A%80+Building+Scalable+Apps+%26+AI+Systems;%F0%9F%92%A1+Turning+Ideas+Into+Production-Ready+Code;%E2%9A%A1+Python+%7C+React+%7C+Full-Stack+%7C+Docker" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&repeat=true&width=650&height=45&lines=%F0%9F%A4%96+AI+%26+Machine+Learning+Projects;%F0%9F%8C%90+Full-Stack+Web+Development;%F0%9F%A7%A0+Data+Structures+%26+Algorithms;%E2%9C%A8+Build+things+that+solve+real+problems" alt="Typing SVG"/>
   </a>
 </p>
 
@@ -28,24 +28,49 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👋 Hi, I'm Akshat Dobhal
 
 <img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding animation"/>
 
-👋 Hi, I'm **Akshat Dobhal** — a Computer Science student passionate about Artificial Intelligence, Machine Learning, and Full-Stack Development. I enjoy turning ideas into practical projects and continuously improving my problem-solving and programming skills.
+🎓 **B.Tech CSE (AI & ML) Student** | 💻 Developer | 🤖 AI/ML Enthusiast
 
-`
-```
+I'm a Computer Science student passionate about **Artificial Intelligence, Machine Learning, and Full-Stack Development**. I enjoy turning ideas into practical projects and continuously improving my problem-solving and programming skills.
+
+### 🚀 What I'm Working On
+
+- 🤖 AI & Machine Learning projects
+- 🌐 Full-Stack Web Development
+- 🧠 Data Structures & Algorithms
+- 💡 Innovative projects & hackathons
+- 🔍 Exploring new technologies and AI tools
+
+### 🎯 Currently
+
+`Learning → Building → Experimenting → Improving`
+
+> "Build things that solve real problems."
 
 ---
 
-## 🚀 Featured Project
+## 🛠️ Tech Stack
+
+- **Languages:** C++, Python, JavaScript
+- **AI/ML:** Machine Learning, Data Analysis, Computer Vision
+- **Web:** HTML, CSS, React, Next.js, Node.js, Express
+- **Database:** MongoDB
+- **Tools:** Git, GitHub, Docker
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,react,nextjs,nodejs,express,html,css,mongodb,git,github,docker,linux&perline=7" alt="Technology stack"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
 
 **[RESQ — Emergency Response & Rescue Management System](https://github.com/akshat017-beep?tab=repositories)** — a platform for coordinating emergency response teams, tracking incidents in real time, and managing rescue operations end to end.
 
-**[BloomFlower] (https://github.com/akshat017-beep?tab=repositories)** — a modern and visually engaging flower-themed web project designed to showcase beautiful floral collections through a clean, responsive, and user-friendly interface.
-
-
+**[BloomFlower](https://github.com/akshat017-beep/Bloomflower-)** — a flower that blooms when you pinch your fingers, built with just JavaScript + MediaPipe hand tracking.
 
 ---
 
@@ -53,14 +78,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/akshat017-beep/akshat017-beep/main/github-streak-stats.svg" alt="GitHub Streak Stats"/>
-</p>
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,react,nextjs,html,css,fastapi,postgres,mysql,supabase,docker,git,github,linux&perline=8" alt="Technology stack"/>
 </p>
 
 ---
@@ -88,12 +105,6 @@
   <br/>
   <img src="https://raw.githubusercontent.com/akshat017-beep/akshat017-beep/main/top-languages.svg" alt="Top Languages"/>
 </p>
-
----
-
-## 🌟 Mission Statement
-
-Build useful software, explore emerging technologies, contribute to open source, and turn ambitious ideas into reliable production systems.
 
 ---
 
